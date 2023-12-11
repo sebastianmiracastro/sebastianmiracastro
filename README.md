@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/static/v1?message=php&logo=php&label=&color=777BB4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="php logo"  />
   <img src="https://img.shields.io/static/v1?message=laravel&logo=laravel&label=&color=FF2D20&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="laravel logo"  />
   <img src="https://img.shields.io/static/v1?message=flask&logo=flask&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="flask logo"  />
-  <img src="https://img.shields.io/static/v1?message=flask&logo=flask&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="flask logo"  />
+  <img src="https://img.shields.io/static/v1?message=postman&logo=postman&label=&color=FF6C37&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="postman logo"  />
 </div>
 
 ###
