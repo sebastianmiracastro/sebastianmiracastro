@@ -40,6 +40,10 @@
       <img src="https://img.shields.io/static/v1?message=redhat&logo=redhat&label=&color=EE0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="redhat logo"  />
         <img src="https://img.shields.io/static/v1?message=react&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="react logo"  />
           <img src="https://img.shields.io/static/v1?message=redis&logo=redis&label=&color=DC382D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="redis logo"  />
+  <img src="https://img.shields.io/static/v1?message=csharp&logo=csharp&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="csharp logo"  />
+    <img src="https://img.shields.io/static/v1?message=pycharm&logo=pycharm&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pycharm logo"  />
+      <img src="https://img.shields.io/static/v1?message=pypi&logo=pypi&label=&color=3775A9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pypi logo"  />
+    <img src="https://img.shields.io/static/v1?message=puppeteer&logo=puppeteer&label=&color=40B5A4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="puppeteer logo"  />
 </div>
 
 ###
