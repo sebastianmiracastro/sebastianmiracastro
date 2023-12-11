@@ -46,6 +46,15 @@
   <img src="https://img.shields.io/static/v1?message=flask&logo=flask&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="flask logo"  />
   <img src="https://img.shields.io/static/v1?message=postman&logo=postman&label=&color=FF6C37&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="postman logo"  />
   <img src="https://img.shields.io/static/v1?message=firebase&logo=firebase&label=&color=FFCA28&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="firebase logo"  />
+  <img src="https://img.shields.io/static/v1?message=git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="git logo"  />
+  <img src="https://img.shields.io/static/v1?message=github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+  <img src="https://img.shields.io/static/v1?message=html5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="html5 logo"  />
+  <img src="https://img.shields.io/static/v1?message=css3&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="css3 logo"  />
+  <img src="https://img.shields.io/static/v1?message=bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/static/v1?message=composer&logo=composer&label=&color=885630&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="composer logo"  />
+  <img src="https://img.shields.io/static/v1?message=mongodb&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mongodb logo"  />
+  <img src="https://img.shields.io/static/v1?message=linux&logo=linux&label=&color=FCC624&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linux logo"  />
+  <img src="https://img.shields.io/static/v1?message=visualstudiocode&logo=visualstudiocode&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudiocode logo"  />
 </div>
 
 ###
