@@ -36,21 +36,31 @@
   <img src="https://img.shields.io/static/v1?message=nginx&logo=nginx&label=&color=009639&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nginx logo"  />
   <img src="https://img.shields.io/static/v1?message=ubuntu&logo=ubuntu&label=&color=E95420&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ubuntu logo"  />
   <img src="https://img.shields.io/static/v1?message=oracle&logo=oracle&label=&color=F80000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="oracle logo"  />
-    <img src="https://img.shields.io/static/v1?message=python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="python logo"  />
-      <img src="https://img.shields.io/static/v1?message=redhat&logo=redhat&label=&color=EE0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="redhat logo"  />
-        <img src="https://img.shields.io/static/v1?message=react&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="react logo"  />
-          <img src="https://img.shields.io/static/v1?message=redis&logo=redis&label=&color=DC382D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="redis logo"  />
+  <img src="https://img.shields.io/static/v1?message=python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="python logo"  />
+  <img src="https://img.shields.io/static/v1?message=redhat&logo=redhat&label=&color=EE0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="redhat logo"  />
+  <img src="https://img.shields.io/static/v1?message=react&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="react logo"  />
+  <img src="https://img.shields.io/static/v1?message=redis&logo=redis&label=&color=DC382D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="redis logo"  />
   <img src="https://img.shields.io/static/v1?message=csharp&logo=csharp&label=&color=512BD4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="csharp logo"  />
-    <img src="https://img.shields.io/static/v1?message=pycharm&logo=pycharm&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pycharm logo"  />
-      <img src="https://img.shields.io/static/v1?message=pypi&logo=pypi&label=&color=3775A9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pypi logo"  />
-    <img src="https://img.shields.io/static/v1?message=puppeteer&logo=puppeteer&label=&color=40B5A4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="puppeteer logo"  />
-      <img src="https://img.shields.io/static/v1?message=nodedotjs&logo=nodedotjs&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nodedotjs logo"  />
-        <img src="https://img.shields.io/static/v1?message=nodemon&logo=nodemon&label=&color=76D04B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nodemon logo"  />
-          <img src="https://img.shields.io/static/v1?message=pm2&logo=pm2&label=&color=2B037A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pm2 logo"  />
+  <img src="https://img.shields.io/static/v1?message=pycharm&logo=pycharm&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pycharm logo"  />
+  <img src="https://img.shields.io/static/v1?message=pypi&logo=pypi&label=&color=3775A9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pypi logo"  />
+  <img src="https://img.shields.io/static/v1?message=puppeteer&logo=puppeteer&label=&color=40B5A4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="puppeteer logo"  />
+  <img src="https://img.shields.io/static/v1?message=nodedotjs&logo=nodedotjs&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nodedotjs logo"  />
+  <img src="https://img.shields.io/static/v1?message=nodemon&logo=nodemon&label=&color=76D04B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nodemon logo"  />
+  <img src="https://img.shields.io/static/v1?message=pm2&logo=pm2&label=&color=2B037A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pm2 logo"  />
   <img src="https://img.shields.io/static/v1?message=javascript&logo=javascript&label=&color=F7DF1E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="javascript logo"  />
-    <img src="https://img.shields.io/static/v1?message=jquery&logo=jquery&label=&color=0769AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jquery logo"  />
-      <img src="https://img.shields.io/static/v1?message=jsonwebtokens&logo=jsonwebtokens&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jsonwebtokens logo"  />
-        <img src="https://img.shields.io/static/v1?message=json&logo=json&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="json logo"  />
+  <img src="https://img.shields.io/static/v1?message=jquery&logo=jquery&label=&color=0769AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jquery logo"  />
+  <img src="https://img.shields.io/static/v1?message=jsonwebtokens&logo=jsonwebtokens&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jsonwebtokens logo"  />
+  <img src="https://img.shields.io/static/v1?message=json&logo=json&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="json logo"  />
+  <img src="https://img.shields.io/static/v1?message=heroku&logo=heroku&label=&color=430098&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="heroku logo"  />
+  <img src="https://img.shields.io/static/v1?message=jira&logo=jira&label=&color=0052CC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jira logo"  />
+  <img src="https://img.shields.io/static/v1?message=socketdotio&logo=socketdotio&label=&color=010101&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="socketdotio logo"  />
+  <img src="https://img.shields.io/static/v1?message=netlify&logo=netlify&label=&color=00C7B7&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="netlify logo"  />
+  <img src="https://img.shields.io/static/v1?message=cloudflare&logo=cloudflare&label=&color=F38020&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cloudflare logo"  />
+  <img src="https://img.shields.io/static/v1?message=cloudinary&logo=cloudinary&label=&color=3448C5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="cloudinary logo"  />
+  <img src="https://img.shields.io/static/v1?message=express&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="express logo"  />
+  <img src="https://img.shields.io/static/v1?message=fastapi&logo=fastapi&label=&color=009688&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="fastapi logo"  />
+  <img src="https://img.shields.io/static/v1?message=microsoftsqlserver&logo=microsoftsqlserver&label=&color=CC2927&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoftsqlserver logo"  />
+  <img src="https://img.shields.io/static/v1?message=mysql&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mysql logo"  />
 </div>
 
 ###
