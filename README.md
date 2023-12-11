@@ -61,6 +61,10 @@
   <img src="https://img.shields.io/static/v1?message=fastapi&logo=fastapi&label=&color=009688&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="fastapi logo"  />
   <img src="https://img.shields.io/static/v1?message=microsoftsqlserver&logo=microsoftsqlserver&label=&color=CC2927&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoftsqlserver logo"  />
   <img src="https://img.shields.io/static/v1?message=mysql&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mysql logo"  />
+  <img src="https://img.shields.io/static/v1?message=php&logo=php&label=&color=777BB4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="php logo"  />
+  <img src="https://img.shields.io/static/v1?message=laravel&logo=laravel&label=&color=FF2D20&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="laravel logo"  />
+  <img src="https://img.shields.io/static/v1?message=flask&logo=flask&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="flask logo"  />
+  <img src="https://img.shields.io/static/v1?message=flask&logo=flask&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="flask logo"  />
 </div>
 
 ###
