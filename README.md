@@ -37,6 +37,9 @@
   <img src="https://img.shields.io/static/v1?message=ubuntu&logo=ubuntu&label=&color=E95420&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ubuntu logo"  />
   <img src="https://img.shields.io/static/v1?message=oracle&logo=oracle&label=&color=F80000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="oracle logo"  />
     <img src="https://img.shields.io/static/v1?message=python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="python logo"  />
+      <img src="https://img.shields.io/static/v1?message=redhat&logo=redhat&label=&color=EE0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="redhat logo"  />
+        <img src="https://img.shields.io/static/v1?message=react&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="react logo"  />
+          <img src="https://img.shields.io/static/v1?message=redis&logo=redis&label=&color=DC382D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="redis logo"  />
 </div>
 
 ###
