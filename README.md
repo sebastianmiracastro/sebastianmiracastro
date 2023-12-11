@@ -44,6 +44,13 @@
     <img src="https://img.shields.io/static/v1?message=pycharm&logo=pycharm&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pycharm logo"  />
       <img src="https://img.shields.io/static/v1?message=pypi&logo=pypi&label=&color=3775A9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pypi logo"  />
     <img src="https://img.shields.io/static/v1?message=puppeteer&logo=puppeteer&label=&color=40B5A4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="puppeteer logo"  />
+      <img src="https://img.shields.io/static/v1?message=nodedotjs&logo=nodedotjs&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nodedotjs logo"  />
+        <img src="https://img.shields.io/static/v1?message=nodemon&logo=nodemon&label=&color=76D04B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nodemon logo"  />
+          <img src="https://img.shields.io/static/v1?message=pm2&logo=pm2&label=&color=2B037A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="pm2 logo"  />
+  <img src="https://img.shields.io/static/v1?message=javascript&logo=javascript&label=&color=F7DF1E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="javascript logo"  />
+    <img src="https://img.shields.io/static/v1?message=jquery&logo=jquery&label=&color=0769AD&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jquery logo"  />
+      <img src="https://img.shields.io/static/v1?message=jsonwebtokens&logo=jsonwebtokens&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="jsonwebtokens logo"  />
+        <img src="https://img.shields.io/static/v1?message=json&logo=json&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="json logo"  />
 </div>
 
 ###
