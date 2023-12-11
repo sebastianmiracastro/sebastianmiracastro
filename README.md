@@ -34,9 +34,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=nginx&logo=nginx&label=&color=009639&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="nginx logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=ubuntu&logo=ubuntu&label=&color=E95420&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ubuntu logo"  />
+  <img src="https://img.shields.io/static/v1?message=oracle&logo=oracle&label=&color=F80000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="oracle logo"  />
+    <img src="https://img.shields.io/static/v1?message=python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="python logo"  />
 </div>
 
 ###
