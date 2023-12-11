@@ -11,7 +11,9 @@
 ###
 
 <h3 align="center">✔ Tech Stack</h3>
-
+<p align="center">
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+</p >
 ###
 
 <h3 align="center">✔ GitHub Stats</h3>
